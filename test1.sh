@@ -10,10 +10,3 @@ do
 		count=`expr $count - 1`
 	fi
 done < output10 
-
-
-
-
-#girish harugeri
-#good morning
-#git exersise 
