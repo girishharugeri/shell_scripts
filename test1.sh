@@ -17,3 +17,7 @@ done < output10
 #girish harugeri
 #good morning
 #git exersise 
+
+
+
+#echo "merging conflict"
