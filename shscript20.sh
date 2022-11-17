@@ -14,5 +14,9 @@ read opt
 done
 
 
+<<<<<<< HEAD
 
 #echo "modify in ubuntu1"
+=======
+#echo "modify linux of 20"
+>>>>>>> linux
