@@ -20,5 +20,7 @@ done < output10
 
 
 
-#echo "merging conflict"
+
+
 #echo "merging conflict @linux"
+
