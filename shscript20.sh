@@ -12,3 +12,6 @@ done < $file
 echo " \n Do you want to continue?[y/n]"
 read opt
 done
+
+
+#echo "modify linux of 20"
