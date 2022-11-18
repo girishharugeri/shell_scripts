@@ -15,3 +15,7 @@ echo " \nYou want to continue?[y/n]"
 read opt
 done
 	
+
+
+
+#echo "modify ubuntu1"
