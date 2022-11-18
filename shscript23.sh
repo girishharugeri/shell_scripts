@@ -22,8 +22,3 @@ do
 echo "Do you want to continue?[y/n]"
 read opt
 done
-
-
-
-#echo "modify ubuntu2"
-
