@@ -20,4 +20,9 @@ done
 
 
 
+<<<<<<< HEAD
 #echo "modify in ubuntu2"
+=======
+#echo "modify linux "
+
+>>>>>>> linux
