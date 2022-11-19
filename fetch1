@@ -1,0 +1,3 @@
+echo "fetch testing 123"
+#!/bin/bash
+echo "writing script of creating file in git add,commit, and pushing to local repo"
