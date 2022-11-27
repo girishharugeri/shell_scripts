@@ -2,7 +2,7 @@
 
 #change directory to /opt
 
-read -s -p "Enter Password for sudo: " sudoPW
+#read -s -p "Enter Password for sudo: " sudoPW
 
 cd /opt
 
