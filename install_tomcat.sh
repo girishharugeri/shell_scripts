@@ -14,6 +14,12 @@ sudo wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.0.27/bin/apache-tomcat-1
 
 sudo tar -xzvf /opt/apache-tomcat-10.0.27.tar.gz
 
-#now we need to start tomcat
+#now we create link for tomcat to start/stop from anywere
 
-sudo sh /opt/apache-tomcat-10.0.27/bin/startup.sh
+sudo ln -s /opt/apache-tomcat-10.0.27/bin/startup.sh /usr/local/bin/tomcatup
+
+sudo ln -s /opt/apache-tomcat-10.0.27/bin/shutdown.sh /usr/local/bin/tomcatdown
+
+#to start tomcat 
+
+sudo tomcatup
