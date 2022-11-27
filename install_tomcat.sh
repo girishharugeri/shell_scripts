@@ -2,6 +2,8 @@
 
 #change directory to /opt
 
+read -s -p "Enter Password for sudo: " sudoPW
+
 cd /opt
 
 sudo rm -rf apache-tomcat-10.0.27.tar.gz
