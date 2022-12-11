@@ -1,3 +1,4 @@
+#If any services stops automatically send an Email.
 #!/bin/bash
 services="sshd jenkins dockers"
 for i in $services
