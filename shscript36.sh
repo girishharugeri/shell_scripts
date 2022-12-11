@@ -1,4 +1,4 @@
-#Delete the old builds and keep latest 5 builds
+#Delete the old builds and keep latest 10 builds
 #!/bin/bash
 ls -lrt | awk 'NR>1 {print $NF}' >/home/ubuntu/kernel3_output
 count=`cat ../kernel3_output | wc -l`
