@@ -1,3 +1,4 @@
+#send an Email if server memory reached its threshhold
 #!bin/bash
 pr=`df -h . | awk 'NR==2 {print $(NF-1)}' | sed 's/%/ /g'`
 thr=36
