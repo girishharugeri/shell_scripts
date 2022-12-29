@@ -1,5 +1,12 @@
 #!/bin/bash
 
+#first need to update
+
+sudo apt update
+
+#now install java
+sudo apt install default-jdk
+
 #change directory to /opt
 cd /opt
 
